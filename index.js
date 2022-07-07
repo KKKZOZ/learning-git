@@ -1,1 +1,1 @@
-console.log("KKKZOZ");
+console.log("KKKZOZ !");
